@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fffbfb; /* Color de fondo blanco para el encabezado */
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ 
+
+nav ul  {
+    list-style: none;
+    display: contents;
+    margin-right: 90px;
+}
+
+.inicio-btn {
+    background-color: #D8CEBB;
+    position: relative; 
+    top: -35px;
+    left: 20px;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.sobreNosotros-btn {
+    background-color: #D8CEBB;
+    position: relative; 
+    top: -35px;
+    left: 20px;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.servicios-btn {
+    background-color: #D8CEBB;
+    position: relative; 
+    top: -35px;
+    left: 20px;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.contacto-btn {
+    background-color: #D8CEBB;
+    position: relative; 
+    top: -35px;
+    left: 20px;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+
+.parrafo p {
+    background-color: #D8CEBB; /* Color de fondo para la sección de descripción */
+    color: #0c0c0c; /* Color del texto blanco para contrastar */
+    padding: 30px;
+    position: relative;
+   
+
+}
+
+
+
+.imagenes img {
+    position: relative;
+    left: 30px;
+    max-width: 30%;
+    height: auto;
+    margin-right: 10px;
+    
+}
